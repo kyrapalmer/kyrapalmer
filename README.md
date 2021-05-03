@@ -7,3 +7,5 @@
 - 📖 Current read: The Testing by Joelle Charbonneau
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) 
 
+#### "The future is never promised. That does not mean I won't work hard for it."
+
