@@ -3,7 +3,7 @@
 
 - 🔭 I’m in the Engineering Immersion program @ Thinkful (graduate in July!)
 - 📚 I’m currently learning React.js for the frontend and Node + Express for the backend
-- 💬 Current project: Grubdash, building out the backend functionality with Javascript
+- 💬 Current project: ILoveMovies, backend capstone for my coding bootcamp
 - 📖 Current read: (rereading) The Testing by Joelle Charbonneau
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) 
 
