@@ -3,7 +3,7 @@
 
 - 🔭 I’m in the Engineering Immersion program @ Thinkful (graduate in July!)
 - 📚 I’m currently studying data structures & algorithms
-- 💬 Current project: ILoveMovies, backend capstone for my coding bootcamp
+- 💬 Current project: *insert name here*, full stack app
 - 📖 Current read: A Discovery of Witches by Deborah Harkness
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) 
 
