@@ -7,5 +7,5 @@
 - 📖 Current read: A Discovery of Witches by Deborah Harkness
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) 
 
-#### "The future is never promised. That does not mean I won't work hard for it."
+### "The future is never promised. That does not mean I won't work hard for it."
 
