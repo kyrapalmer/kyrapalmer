@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m in the Engineering Immersion program @ Thinkful (graduate in July!)
-- 📚 I’m currently studying data structures & algorithms
-- 💬 Current project: restaurant reservation app- full stack app, built in completion of Thinkful's Engineering Immersion program
-- 📖 Current read: A Discovery of Witches by Deborah Harkness
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) 
+- 🔭 I’m a graduate of Thinkful's Engineering Immersion program
+- 📚 I’m currently studying Java fundamentals and working in the PERN stack
+- 🤠 I really enjoy creating sleek and well-organized servers and simple and simple, functional frontends to complement them
+- 💬 Current project: refreshing my portfolio website to reflect my latest projects
+- 📖 Current read: They Both Die at the End by Adam Silvera (rumor has it the title does not lie)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyrapalmer/) || [Twitter](https://twitter.com/kyraiscoding)
 
 ### "The future is never promised. That does not mean I won't work hard for it."
 
