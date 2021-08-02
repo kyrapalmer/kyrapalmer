@@ -11,21 +11,9 @@
 ### "The future is never promised. That does not mean I won't work hard for it."
 
 #### Toolbox
-##### Frontend
-- HTML5/CSS3
-- JavaScript
-- React
-- Bootstrap
-##### Backend
-- Node.js
-- Express
-- PostgreSQL
-##### Additional Tools
-- Mocha/Chai
-- Git/Github
-- RESTful APIs
-- NPM
-- TDD/unit testing
+##### Frontend: HTML5/CSS3, JavaScript, React, Bootstrap
+##### Backend: Node.js, Express, PostgreSQL
+##### Additional Tools: Mocha/Chai, Git/Github, RESTful APIs, NPM, TDD/unit testing
 
 
 
