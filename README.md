@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+- 👩🏼‍💻 IT Consultant at FDM Group
 - 🔭 I’m a graduate of Thinkful's Engineering Immersion program
 - 📚 I’m currently studying Java fundamentals and working in the PERN stack
 - 🤠 I really enjoy creating sleek and well-organized servers and simple, functional frontends to complement them
@@ -12,7 +13,7 @@
 
 #### Toolbox
 ##### Frontend: HTML5/CSS3, JavaScript, React, Bootstrap
-##### Backend: Node.js, Express, PostgreSQL
+##### Backend: Node.js, Express, PostgreSQL, Java
 ##### Additional Tools: Mocha/Chai, Git/Github, RESTful APIs, NPM, TDD/unit testing
 
 
