@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 👩🏼‍💻 IT Consultant at FDM Group
+- 👩🏼‍💻 IT Consultant at FDM Group, Coach at Career Karma
 - 🔭 I’m a graduate of Thinkful's Engineering Immersion program
-- 📚 I’m currently studying Java fundamentals and working in the PERN stack
+- 📚 I’m currently upskilling in .NET and C#
 - 🤠 I really enjoy creating sleek and well-organized servers and simple, functional frontends to complement them
 - 💬 Current project: refreshing my portfolio website to reflect my latest projects
 - 📖 Current read: They Both Die at the End by Adam Silvera 
