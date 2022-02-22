@@ -13,8 +13,9 @@
 
 #### Toolbox
 ##### Frontend: HTML5/CSS3, JavaScript, React, Bootstrap
-##### Backend: Node.js, Express, PostgreSQL, Java
-##### Additional Tools: Mocha/Chai, Git/Github, RESTful APIs, NPM, TDD/unit testing
+##### Backend: Node.js, Express, Java
+##### DB tech & tools: SQL, PostgreSQL, Oracle SQL Developer, Knex Query Builder
+##### Additional Tools: Mocha/Chai, Git/Github, RESTful APIs, NPM, Docker
 
 
 
